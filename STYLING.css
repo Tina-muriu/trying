@@ -1,0 +1,13 @@
+h1{
+    color: #0000ff;
+    font-size: 40px;
+    font-family:Arial;
+    margin-top: 4em;
+}
+p{
+    color: #00aa00;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2em;
+    margin-left: 40px;
+    margin-right: 80px;
+}
